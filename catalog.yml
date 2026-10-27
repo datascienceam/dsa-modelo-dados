@@ -1,0 +1,12 @@
+- id: identificador
+  nome: Nome do dataset
+  fonte: Instituição responsável
+  url: https://...
+  formato: CSV
+  cobertura: Regieão e período
+  licenca: conferir os termos de uso da fonte
+  script: null
+  observacoes: >
+    Particularidades meteorológicas.
+  ultima_verificacao: 2026-10-26
+[]
